@@ -25,8 +25,6 @@ The lessons represent an beginner to intermediate course in data science using P
 
 ## Video Walkthrough
 
-
-**Intro to Pandas**
 https://github.com/Hevander27/BigThinkAi/assets/45948489/ecca6f01-88c9-4b7c-a089-15461ffe95e1
 
 
