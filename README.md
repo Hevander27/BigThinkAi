@@ -30,6 +30,8 @@ https://github.com/Hevander27/BigThinkAi/assets/45948489/ecca6f01-88c9-4b7c-a089
 
 **Other Videos**
 
+[BigThinkAI Lesson 1](https://www.youtube.com/watch?v=5gPmyA63o7k&t=1970s)
+[BigThinkAI Lesson 2](https://www.youtube.com/watch?v=OPm83_gtqFI)
 
 
 
