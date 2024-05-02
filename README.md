@@ -6,13 +6,12 @@ Created by: **Hevander Da Costa**
 
 1. [Overview](#Overview)
 2. [Video Walkthrough](#Video-Walkthrough)
-3. [Features](#Features)
-4. [Updates](#Updates)
-4. [DFS Implementation](#DFS-Implementation)
-6. [BFS Implementation](#BFS-Implementation)
-7. [AStar Implementation](#AStar-Implementation)
-8. [Edge and Area Detection](#Edge-And-Area-Detection)
-9. [Image Preprocessing](#Image-Preprocessing)
+3. [Intro to Pands](*Intro-to-Pandas)
+4. []
+
+
+
+
 
 
 
@@ -26,4 +25,15 @@ The lessons represent an beginner to intermediate course in data science using P
 
 ## Video Walkthrough
 
+
+**Intro to Pandas**
 https://github.com/Hevander27/BigThinkAi/assets/45948489/ecca6f01-88c9-4b7c-a089-15461ffe95e1
+
+
+**Other Videos**
+
+
+
+
+
+
