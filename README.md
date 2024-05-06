@@ -1104,6 +1104,11 @@ plt.show()
 
 <div class="cell markdown">
 
+
+![Unknown-3](https://github.com/Hevander27/BigThinkAi/assets/45948489/c382ce9d-8332-4ce4-8e3e-81b8e7288e0d)
+
+
+
 ### Additional Functions
 
 [Dataframe.std()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.std.html "Documentation")
