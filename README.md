@@ -287,7 +287,6 @@ complaints_df_plot = sns.pairplot(complaints_df, hue="Borough")
 
 
 <div class="output display_data">
-![](d73caef5a0742c4600a83c5cfe83d9bf2290d9c6.png)
 
 </div>
 
