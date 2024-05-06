@@ -8,7 +8,7 @@ Created by: **Hevander Da Costa**
 2. [Contents](#Contents)
 3. [Video Walkthrough](#Video-Walkthrough)
 4. [Note](#Note)
-5  [Example](#Example)
+5. [Example](#Example)
 
 ## Overview
 This repository contains the data science lession I designed for the the University of Maryland Club, BigThinkAI, as the data science lead.
