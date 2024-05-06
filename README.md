@@ -954,6 +954,10 @@ ax = sns.boxplot(x ='Borough',y ='asbestos_count', data=sqrtTransformation(clamp
 
 <div class="cell markdown">
 
+
+![Unknown-2](https://github.com/Hevander27/BigThinkAi/assets/45948489/68b74bc0-ba47-45e7-8f8f-dd094484178a)
+
+
 ## ## Imputation
 
 </div>
