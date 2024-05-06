@@ -284,6 +284,10 @@ complaints_df_plot = sns.pairplot(complaints_df, hue="Borough")
 
 <div class="output display_data">
 
+
+![Unknown](https://github.com/Hevander27/BigThinkAi/assets/45948489/843c354e-1c72-494b-acf2-3f8c0658db48)
+
+
 ![](d73caef5a0742c4600a83c5cfe83d9bf2290d9c6.png)
 
 </div>
