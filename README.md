@@ -282,12 +282,11 @@ sns.set_theme(style="ticks")
 complaints_df_plot = sns.pairplot(complaints_df, hue="Borough")
 ```
 
+
+![Unknown-5](https://github.com/Hevander27/BigThinkAi/assets/45948489/59a6ad3c-1928-456c-8e2c-8ca482618cf9)
+
+
 <div class="output display_data">
-
-
-![Unknown](https://github.com/Hevander27/BigThinkAi/assets/45948489/843c354e-1c72-494b-acf2-3f8c0658db48)
-
-
 ![](d73caef5a0742c4600a83c5cfe83d9bf2290d9c6.png)
 
 </div>
@@ -877,6 +876,9 @@ plt.title("QQ Plot for Engagement")
 plt.show()
 ```
 
+![Unknown-4](https://github.com/Hevander27/BigThinkAi/assets/45948489/a3215354-4adf-41f8-89b9-e7a385cc5dbb)
+
+
 <div class="output stream stderr">
 
     C:\ProgramData\Anaconda3\lib\site-packages\scipy\stats\_distn_infrastructure.py:2007: RuntimeWarning: invalid value encountered in less_equal
@@ -927,6 +929,10 @@ plt.text(vari_count.median(), max_ylim*0.75, '{:.2f} (median)'.format(vari_count
 </div>
 
 <div class="cell markdown">
+
+
+![Unknown](https://github.com/Hevander27/BigThinkAi/assets/45948489/843c354e-1c72-494b-acf2-3f8c0658db48)
+
 
 ### Box and whisker analysis
 
